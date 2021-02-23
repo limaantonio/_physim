@@ -1,0 +1,23 @@
+{
+  "name": "physim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainElectron.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.5"
+  },
+  "dependencies": {
+    "d3": "^6.2.0",
+    "mathbox": "^0.1.0",
+    "mathjs": "^7.6.0",
+    "plotly.js-dist": "^1.57.1",
+    "three": "^0.122.0"
+  }
+}
